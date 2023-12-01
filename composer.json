@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Cl\\Ablefit\\": "src/",
+            "Cl\\Ablefit\\": "src/"
         }
     }
 
